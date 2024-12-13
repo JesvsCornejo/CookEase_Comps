@@ -1,0 +1,21 @@
+[debug] [2024-12-12T18:04:15.199Z] ----------------------------------------------------------------------
+[debug] [2024-12-12T18:04:15.202Z] Command:       /usr/local/bin/node /usr/local/bin/firebase init
+[debug] [2024-12-12T18:04:15.203Z] CLI Version:   13.28.0
+[debug] [2024-12-12T18:04:15.203Z] Platform:      darwin
+[debug] [2024-12-12T18:04:15.203Z] Node Version:  v20.17.0
+[debug] [2024-12-12T18:04:15.203Z] Time:          Thu Dec 12 2024 10:04:15 GMT-0800 (Pacific Standard Time)
+[debug] [2024-12-12T18:04:15.204Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2024-12-12T18:04:15.211Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2024-12-12T18:04:15.212Z] > authorizing via signed-in user (jcornejo1052@gmail.com)
+[info] 
+     ######## #### ########  ######## ########     ###     ######  ########
+     ##        ##  ##     ## ##       ##     ##  ##   ##  ##       ##
+     ######    ##  ########  ######   ########  #########  ######  ######
+     ##        ##  ##    ##  ##       ##     ## ##     ##       ## ##
+     ##       #### ##     ## ######## ########  ##     ##  ######  ########
+
+You're about to initialize a Firebase project in this directory:
+
+  /Users/jesuscornejo/cook-ease-main
+
